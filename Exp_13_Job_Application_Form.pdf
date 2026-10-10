@@ -1,0 +1,3677 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Experiment 13 \055 Job Application Form)
+/Author (Sadhana M)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5392
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 1) Tj T* ET
+q
+1 0 0 1 67.2 763.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F3 17 Tf 22 TL (Experiment 13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 719.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 23 Tm /F3 15 Tf 19 TL 21.0753 0 Td (Case Study on Limitations of Low-Code Platforms for a Complex) Tj T* 144.375 0 Td (Enterprise Use Case) Tj T* -165.4503 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2 715.4898 cm
+Q
+q
+1 0 0 1 67.2 713.4898 cm
+q
+1 w
+1 J
+0 0 0 RG
+n 0 0 m 460.8756 0 l S
+Q
+Q
+q
+1 0 0 1 67.2 697.4898 cm
+q
+BT 1 0 0 1 0 1.5 Tm 114.0873 0 Td 12 TL /F3 10.5 Tf 0 0 0 rg (Name: Sadhana M  ) Tj ( ) Tj (|) Tj ( ) Tj (  Register Number: 241401085) Tj T* -114.0873 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2 692.4898 cm
+q
+1 w
+1 J
+0 0 0 RG
+n 0 0 m 460.8756 0 l S
+Q
+Q
+q
+1 0 0 1 67.2 664.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Aim) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 631.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL -0.075815 Tw (To study the limitations of low-code platforms when they are applied to complex enterprise-level applications) Tj T* 0 Tw (and to understand when pro-code extensions or hybrid approaches may become necessary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 603.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 526.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F2 10.5 Tf 14.5 TL .657392 Tw (Low-code platforms allow applications to be developed mainly through visual development tools instead of) Tj T* 0 Tw .325424 Tw (writing large amounts of traditional program code. Applications are assembled using predefined components) Tj T* 0 Tw .300685 Tw (such as forms, reports and dashboards, and behaviour is defined through workflows, rules and configuration.) Tj T* 0 Tw .357639 Tw (A small amount of scripting is usually available for specific needs. This approach reduces development time) Tj T* 0 Tw (and effort and makes it possible for a wider range of people to take part in building business applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 522.9898 cm
+Q
+q
+1 0 0 1 67.2 450.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F2 10.5 Tf 14.5 TL .946435 Tw (Low-code platforms are well suited to standard business applications. As the requirements of an enterprise) Tj T* 0 Tw -0.015065 Tw (grow in terms of users, data volume, process complexity, integrations, security and customisation, the built-in) Tj T* 0 Tw .005505 Tw (capabilities of a platform may no longer be sufficient on their own. This case study examines such limitations) Tj T* 0 Tw 1.84793 Tw (through an enterprise job application and recruitment scenario, which extends the Job Application Form) Tj T* 0 Tw (application built in Zoho Creator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 422.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case Study: Enterprise Job Application Management System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 389.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL .707639 Tw (An enterprise organisation requires a system to manage its recruitment operations. The system may need to) Tj T* 0 Tw (serve the following users and handle the following functions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 384.4898 cm
+Q
+q
+1 0 0 1 61.2 240.4898 cm
+q
+.862745 .901961 .945098 rg
+n 0 144 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Items) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Applicants, recruiters / HR executives, hiring managers, interviewers and) Tj T* (administrators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Data and operations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 59 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Applicant records, job applications, application screening, interview) Tj T* (scheduling and application history) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Supporting functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Notifications, approvals and resume / document storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Enterprise integration and) Tj T* (insight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (CRM integration, HRMS integration, analytics and reporting) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 144 m 472.8756 144 l S
+n 0 0 m 472.8756 0 l S
+n 0 0 m 0 144 l S
+n 472.8756 0 m 472.8756 144 l S
+n 0 123 m 472.8756 123 l S
+n 0 89 m 472.8756 89 l S
+n 0 55 m 472.8756 55 l S
+n 0 34 m 472.8756 34 l S
+n 144 0 m 144 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 67.2 232.4898 cm
+Q
+q
+1 0 0 1 67.2 203.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL 1.071564 Tw (Figure 1 shows the architecture of this system on a low-code platform. The architecture is arranged as six) Tj T* 0 Tw (groups that are connected from left to right:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 197.4898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Symbol
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F7
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 22394
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 2) Tj T* ET
+q
+1 0 0 1 67.2 545.4898 cm
+.901961 .929412 .968627 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+4 206 m
+468.8756 206 l
+471.0868 206 472.8756 207.7888 472.8756 210 c
+472.8756 236 l
+472.8756 238.2112 471.0868 240 468.8756 240 c
+4 240 l
+1.7888 240 0 238.2112 0 236 c
+0 210 l
+0 207.7888 1.7888 206 4 206 c
+h
+B*
+BT /F4 11 Tf 13.2 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 110.2128 225 Tm (Enterprise Job Application Management System) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 167.254 213 Tm (System Architecture \(Low-Code Platform\)) Tj T* ET
+1 1 1 rg
+.247059 .560784 .823529 RG
+.8 w
+n
+4 0 m
+68.14593 0 l
+70.35713 0 72.14593 1.7888 72.14593 4 c
+72.14593 192 l
+72.14593 194.2112 70.35713 196 68.14593 196 c
+4 196 l
+1.7888 196 0 194.2112 0 192 c
+0 4 l
+0 1.7888 1.7888 0 4 0 c
+h
+B*
+.247059 .560784 .823529 rg
+n
+4 158 m
+68.14593 158 l
+70.35713 158 72.14593 159.7888 72.14593 162 c
+72.14593 192 l
+72.14593 194.2112 70.35713 196 68.14593 196 c
+4 196 l
+1.7888 196 0 194.2112 0 192 c
+0 162 l
+0 159.7888 1.7888 158 4 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 23.67097 180.8 Tm (USERS) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+7 120 m
+65.14593 120 l
+66.80433 120 68.14593 121.3416 68.14593 123 c
+68.14593 142 l
+68.14593 143.6584 66.80433 145 65.14593 145 c
+7 145 l
+5.3416 145 4 143.6584 4 142 c
+4 123 l
+4 121.3416 5.3416 120 7 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 21.31137 132.6 Tm (Applicants) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+7 90 m
+65.14593 90 l
+66.80433 90 68.14593 91.3416 68.14593 93 c
+68.14593 112 l
+68.14593 113.6584 66.80433 115 65.14593 115 c
+7 115 l
+5.3416 115 4 113.6584 4 112 c
+4 93 l
+4 91.3416 5.3416 90 7 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 14.20417 102.6 Tm (Recruiters / HR) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+7 60 m
+65.14593 60 l
+66.80433 60 68.14593 61.3416 68.14593 63 c
+68.14593 82 l
+68.14593 83.6584 66.80433 85 65.14593 85 c
+7 85 l
+5.3416 85 4 83.6584 4 82 c
+4 63 l
+4 61.3416 5.3416 60 7 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 12.60097 72.6 Tm (Hiring Managers) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+7 30 m
+65.14593 30 l
+66.80433 30 68.14593 31.3416 68.14593 33 c
+68.14593 52 l
+68.14593 53.6584 66.80433 55 65.14593 55 c
+7 55 l
+5.3416 55 4 53.6584 4 52 c
+4 33 l
+4 31.3416 5.3416 30 7 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 18.82497 42.6 Tm (Interviewers) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+7 0 m
+65.14593 0 l
+66.80433 0 68.14593 1.3416 68.14593 3 c
+68.14593 22 l
+68.14593 23.6584 66.80433 25 65.14593 25 c
+7 25 l
+5.3416 25 4 23.6584 4 22 c
+4 3 l
+4 1.3416 5.3416 0 7 0 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 15.62497 12.6 Tm (Administrators) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 73.14593 76 m 76.14593 76 l S
+n 79.14593 76 m 75.14593 78.5 l 75.14593 73.5 l h
+f*
+1 1 1 rg
+.298039 .623529 .419608 RG
+.8 w
+n
+84.14593 0 m
+148.2919 0 l
+150.5031 0 152.2919 1.7888 152.2919 4 c
+152.2919 192 l
+152.2919 194.2112 150.5031 196 148.2919 196 c
+84.14593 196 l
+81.93473 196 80.14593 194.2112 80.14593 192 c
+80.14593 4 l
+80.14593 1.7888 81.93473 0 84.14593 0 c
+h
+B*
+.298039 .623529 .419608 rg
+n
+84.14593 158 m
+148.2919 158 l
+150.5031 158 152.2919 159.7888 152.2919 162 c
+152.2919 192 l
+152.2919 194.2112 150.5031 196 148.2919 196 c
+84.14593 196 l
+81.93473 196 80.14593 194.2112 80.14593 192 c
+80.14593 162 l
+80.14593 159.7888 81.93473 158 84.14593 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 89.2153 180.8 Tm (Job Application) Tj T* ET
+BT 1 0 0 1 86.6161 172.2 Tm (Form Application) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+87.14593 120 m
+145.2919 120 l
+146.9503 120 148.2919 121.3416 148.2919 123 c
+148.2919 142 l
+148.2919 143.6584 146.9503 145 145.2919 145 c
+87.14593 145 l
+85.48753 145 84.14593 143.6584 84.14593 142 c
+84.14593 123 l
+84.14593 121.3416 85.48753 120 87.14593 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 92.9197 132.6 Tm (Job Applications) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+87.14593 90 m
+145.2919 90 l
+146.9503 90 148.2919 91.3416 148.2919 93 c
+148.2919 112 l
+148.2919 113.6584 146.9503 115 145.2919 115 c
+87.14593 115 l
+85.48753 115 84.14593 113.6584 84.14593 112 c
+84.14593 93 l
+84.14593 91.3416 85.48753 90 87.14593 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 92.3885 102.6 Tm (Applicant Details) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+87.14593 60 m
+145.2919 60 l
+146.9503 60 148.2919 61.3416 148.2919 63 c
+148.2919 82 l
+148.2919 83.6584 146.9503 85 145.2919 85 c
+87.14593 85 l
+85.48753 85 84.14593 83.6584 84.14593 82 c
+84.14593 63 l
+84.14593 61.3416 85.48753 60 87.14593 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 97.0093 72.6 Tm (Job / Position) Tj T* ET
+BT 1 0 0 1 106.4397 65.2 Tm (Details) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+87.14593 30 m
+145.2919 30 l
+146.9503 30 148.2919 31.3416 148.2919 33 c
+148.2919 52 l
+148.2919 53.6584 146.9503 55 145.2919 55 c
+87.14593 55 l
+85.48753 55 84.14593 53.6584 84.14593 52 c
+84.14593 33 l
+84.14593 31.3416 85.48753 30 87.14593 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 103.4157 42.6 Tm (Interview) Tj T* ET
+BT 1 0 0 1 100.3885 35.2 Tm (Scheduling) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+87.14593 0 m
+145.2919 0 l
+146.9503 0 148.2919 1.3416 148.2919 3 c
+148.2919 22 l
+148.2919 23.6584 146.9503 25 145.2919 25 c
+87.14593 25 l
+85.48753 25 84.14593 23.6584 84.14593 22 c
+84.14593 3 l
+84.14593 1.3416 85.48753 0 87.14593 0 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 90.6061 12.6 Tm (Application Status) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 153.2919 76 m 156.2919 76 l S
+n 159.2919 76 m 155.2919 78.5 l 155.2919 73.5 l h
+f*
+1 1 1 rg
+.482353 .407843 .709804 RG
+.8 w
+n
+164.2919 0 m
+228.4378 0 l
+230.649 0 232.4378 1.7888 232.4378 4 c
+232.4378 192 l
+232.4378 194.2112 230.649 196 228.4378 196 c
+164.2919 196 l
+162.0807 196 160.2919 194.2112 160.2919 192 c
+160.2919 4 l
+160.2919 1.7888 162.0807 0 164.2919 0 c
+h
+B*
+.482353 .407843 .709804 rg
+n
+164.2919 158 m
+228.4378 158 l
+230.649 158 232.4378 159.7888 232.4378 162 c
+232.4378 192 l
+232.4378 194.2112 230.649 196 228.4378 196 c
+164.2919 196 l
+162.0807 196 160.2919 194.2112 160.2919 192 c
+160.2919 162 l
+160.2919 159.7888 162.0807 158 164.2919 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 166.1572 180.8 Tm (Business Logic &) Tj T* ET
+BT 1 0 0 1 180.1648 172.2 Tm (Workflow) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+167.2919 120 m
+225.4378 120 l
+227.0962 120 228.4378 121.3416 228.4378 123 c
+228.4378 142 l
+228.4378 143.6584 227.0962 145 225.4378 145 c
+167.2919 145 l
+165.6335 145 164.2919 143.6584 164.2919 142 c
+164.2919 123 l
+164.2919 121.3416 165.6335 120 167.2919 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 180.7136 132.6 Tm (Application) Tj T* ET
+BT 1 0 0 1 180.5376 125.2 Tm (Processing) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+167.2919 90 m
+225.4378 90 l
+227.0962 90 228.4378 91.3416 228.4378 93 c
+228.4378 112 l
+228.4378 113.6584 227.0962 115 225.4378 115 c
+167.2919 115 l
+165.6335 115 164.2919 113.6584 164.2919 112 c
+164.2919 93 l
+164.2919 91.3416 165.6335 90 167.2919 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 178.2272 102.6 Tm (HR Approval) Tj T* ET
+BT 1 0 0 1 183.2096 95.2 Tm (Workflow) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+167.2919 60 m
+225.4378 60 l
+227.0962 60 228.4378 61.3416 228.4378 63 c
+228.4378 82 l
+228.4378 83.6584 227.0962 85 225.4378 85 c
+167.2919 85 l
+165.6335 85 164.2919 83.6584 164.2919 82 c
+164.2919 63 l
+164.2919 61.3416 165.6335 60 167.2919 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 178.9376 72.6 Tm (Notifications) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+167.2919 30 m
+225.4378 30 l
+227.0962 30 228.4378 31.3416 228.4378 33 c
+228.4378 52 l
+228.4378 53.6584 227.0962 55 225.4378 55 c
+167.2919 55 l
+165.6335 55 164.2919 53.6584 164.2919 52 c
+164.2919 33 l
+164.2919 31.3416 165.6335 30 167.2919 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 180.7168 42.6 Tm (Interviewer) Tj T* ET
+BT 1 0 0 1 179.648 35.2 Tm (Assignment) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+167.2919 0 m
+225.4378 0 l
+227.0962 0 228.4378 1.3416 228.4378 3 c
+228.4378 22 l
+228.4378 23.6584 227.0962 25 225.4378 25 c
+167.2919 25 l
+165.6335 25 164.2919 23.6584 164.2919 22 c
+164.2919 3 l
+164.2919 1.3416 165.6335 0 167.2919 0 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 174.4864 12.6 Tm (Status Updates) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 233.4378 76 m 236.4378 76 l S
+n 239.4378 76 m 235.4378 78.5 l 235.4378 73.5 l h
+f*
+1 1 1 rg
+.184314 .372549 .619608 RG
+.8 w
+n
+244.4378 0 m
+308.5837 0 l
+310.7949 0 312.5837 1.7888 312.5837 4 c
+312.5837 192 l
+312.5837 194.2112 310.7949 196 308.5837 196 c
+244.4378 196 l
+242.2266 196 240.4378 194.2112 240.4378 192 c
+240.4378 4 l
+240.4378 1.7888 242.2266 0 244.4378 0 c
+h
+B*
+.184314 .372549 .619608 rg
+n
+244.4378 158 m
+308.5837 158 l
+310.7949 158 312.5837 159.7888 312.5837 162 c
+312.5837 192 l
+312.5837 194.2112 310.7949 196 308.5837 196 c
+244.4378 196 l
+242.2266 196 240.4378 194.2112 240.4378 192 c
+240.4378 162 l
+240.4378 159.7888 242.2266 158 244.4378 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 245.7056 180.8 Tm (Data Management) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+247.4378 120 m
+305.5837 120 l
+307.2421 120 308.5837 121.3416 308.5837 123 c
+308.5837 142 l
+308.5837 143.6584 307.2421 145 305.5837 145 c
+247.4378 145 l
+245.7794 145 244.4378 143.6584 244.4378 142 c
+244.4378 123 l
+244.4378 121.3416 245.7794 120 247.4378 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.7636 132.6 Tm (Applicant Database) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+247.4378 90 m
+305.5837 90 l
+307.2421 90 308.5837 91.3416 308.5837 93 c
+308.5837 112 l
+308.5837 113.6584 307.2421 115 305.5837 115 c
+247.4378 115 l
+245.7794 115 244.4378 113.6584 244.4378 112 c
+244.4378 93 l
+244.4378 91.3416 245.7794 90 247.4378 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 258.5492 102.6 Tm (Job Records) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+247.4378 60 m
+305.5837 60 l
+307.2421 60 308.5837 61.3416 308.5837 63 c
+308.5837 82 l
+308.5837 83.6584 307.2421 85 305.5837 85 c
+247.4378 85 l
+245.7794 85 244.4378 83.6584 244.4378 82 c
+244.4378 63 l
+244.4378 61.3416 245.7794 60 247.4378 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 250.0148 72.6 Tm (Application History) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+247.4378 30 m
+305.5837 30 l
+307.2421 30 308.5837 31.3416 308.5837 33 c
+308.5837 52 l
+308.5837 53.6584 307.2421 55 305.5837 55 c
+247.4378 55 l
+245.7794 55 244.4378 53.6584 244.4378 52 c
+244.4378 33 l
+244.4378 31.3416 245.7794 30 247.4378 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 253.2116 42.6 Tm (Job Applications) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 313.5837 76 m 316.5837 76 l S
+n 319.5837 76 m 315.5837 78.5 l 315.5837 73.5 l h
+f*
+1 1 1 rg
+.909804 .568627 .227451 RG
+.8 w
+n
+324.5837 0 m
+388.7297 0 l
+390.9409 0 392.7297 1.7888 392.7297 4 c
+392.7297 192 l
+392.7297 194.2112 390.9409 196 388.7297 196 c
+324.5837 196 l
+322.3725 196 320.5837 194.2112 320.5837 192 c
+320.5837 4 l
+320.5837 1.7888 322.3725 0 324.5837 0 c
+h
+B*
+.909804 .568627 .227451 rg
+n
+324.5837 158 m
+388.7297 158 l
+390.9409 158 392.7297 159.7888 392.7297 162 c
+392.7297 192 l
+392.7297 194.2112 390.9409 196 388.7297 196 c
+324.5837 196 l
+322.3725 196 320.5837 194.2112 320.5837 192 c
+320.5837 162 l
+320.5837 159.7888 322.3725 158 324.5837 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 342.4511 180.8 Tm (External) Tj T* ET
+BT 1 0 0 1 338.8511 172.2 Tm (Enterprise) Tj T* ET
+BT 1 0 0 1 341.8499 163.6 Tm (Systems) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+327.5837 120 m
+385.7297 120 l
+387.3881 120 388.7297 121.3416 388.7297 123 c
+388.7297 142 l
+388.7297 143.6584 387.3881 145 385.7297 145 c
+327.5837 145 l
+325.9253 145 324.5837 143.6584 324.5837 142 c
+324.5837 123 l
+324.5837 121.3416 325.9253 120 327.5837 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 334.7879 132.6 Tm (HRMS / Payroll) Tj T* ET
+BT 1 0 0 1 345.9879 125.2 Tm (System) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+327.5837 90 m
+385.7297 90 l
+387.3881 90 388.7297 91.3416 388.7297 93 c
+388.7297 112 l
+388.7297 113.6584 387.3881 115 385.7297 115 c
+327.5837 115 l
+325.9253 115 324.5837 113.6584 324.5837 112 c
+324.5837 93 l
+324.5837 91.3416 325.9253 90 327.5837 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 339.2359 102.6 Tm (CRM \(Bigin\)) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+327.5837 60 m
+385.7297 60 l
+387.3881 60 388.7297 61.3416 388.7297 63 c
+388.7297 82 l
+388.7297 83.6584 387.3881 85 385.7297 85 c
+327.5837 85 l
+325.9253 85 324.5837 83.6584 324.5837 82 c
+324.5837 63 l
+324.5837 61.3416 325.9253 60 327.5837 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 340.6503 72.6 Tm (Job Portals) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+327.5837 30 m
+385.7297 30 l
+387.3881 30 388.7297 31.3416 388.7297 33 c
+388.7297 52 l
+388.7297 53.6584 387.3881 55 385.7297 55 c
+327.5837 55 l
+325.9253 55 324.5837 53.6584 324.5837 52 c
+324.5837 33 l
+324.5837 31.3416 325.9253 30 327.5837 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 330.1607 42.6 Tm (Email / Notification) Tj T* ET
+BT 1 0 0 1 344.3879 35.2 Tm (Services) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 393.7297 76 m 396.7297 76 l S
+n 399.7297 76 m 395.7297 78.5 l 395.7297 73.5 l h
+f*
+1 1 1 rg
+.180392 .615686 .658824 RG
+.8 w
+n
+404.7297 0 m
+468.8756 0 l
+471.0868 0 472.8756 1.7888 472.8756 4 c
+472.8756 192 l
+472.8756 194.2112 471.0868 196 468.8756 196 c
+404.7297 196 l
+402.5185 196 400.7297 194.2112 400.7297 192 c
+400.7297 4 l
+400.7297 1.7888 402.5185 0 404.7297 0 c
+h
+B*
+.180392 .615686 .658824 rg
+n
+404.7297 158 m
+468.8756 158 l
+471.0868 158 472.8756 159.7888 472.8756 162 c
+472.8756 192 l
+472.8756 194.2112 471.0868 196 468.8756 196 c
+404.7297 196 l
+402.5185 196 400.7297 194.2112 400.7297 192 c
+400.7297 162 l
+400.7297 159.7888 402.5185 158 404.7297 158 c
+h
+f*
+BT /F4 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 417.197 180.8 Tm (Analytics &) Tj T* ET
+BT 1 0 0 1 419.8034 172.2 Tm (Reporting) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+407.7297 120 m
+465.8756 120 l
+467.534 120 468.8756 121.3416 468.8756 123 c
+468.8756 142 l
+468.8756 143.6584 467.534 145 465.8756 145 c
+407.7297 145 l
+406.0713 145 404.7297 143.6584 404.7297 142 c
+404.7297 123 l
+404.7297 121.3416 406.0713 120 407.7297 120 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 410.3034 132.6 Tm (Application Trends) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+407.7297 90 m
+465.8756 90 l
+467.534 90 468.8756 91.3416 468.8756 93 c
+468.8756 112 l
+468.8756 113.6584 467.534 115 465.8756 115 c
+407.7297 115 l
+406.0713 115 404.7297 113.6584 404.7297 112 c
+404.7297 93 l
+404.7297 91.3416 406.0713 90 407.7297 90 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 411.5482 102.6 Tm (Applicant Reports) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+407.7297 60 m
+465.8756 60 l
+467.534 60 468.8756 61.3416 468.8756 63 c
+468.8756 82 l
+468.8756 83.6584 467.534 85 465.8756 85 c
+407.7297 85 l
+406.0713 85 404.7297 83.6584 404.7297 82 c
+404.7297 63 l
+404.7297 61.3416 406.0713 60 407.7297 60 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 411.9066 72.6 Tm (Recruitment KPIs) Tj T* ET
+.964706 .976471 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+407.7297 30 m
+465.8756 30 l
+467.534 30 468.8756 31.3416 468.8756 33 c
+468.8756 52 l
+468.8756 53.6584 467.534 55 465.8756 55 c
+407.7297 55 l
+406.0713 55 404.7297 53.6584 404.7297 52 c
+404.7297 33 l
+404.7297 31.3416 406.0713 30 407.7297 30 c
+h
+B*
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 418.1274 42.6 Tm (Management) Tj T* ET
+BT 1 0 0 1 421.1514 35.2 Tm (Dashboard) Tj T* ET
+Q
+q
+1 0 0 1 67.2 542.4898 cm
+Q
+q
+1 0 0 1 67.2 527.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F5 10.5 Tf 12 TL 75.40005 0 Td (Figure 1: Enterprise Job Application Management System Architecture) Tj T* -75.40005 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2 490.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 490.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 1.484963 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Users:) Tj /F2 10.5 Tf ( applicants, recruiters / HR executives, hiring managers, interviewers and administrators, who) Tj T* 0 Tw (interact with the system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 461.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 461.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm .817736 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Job Application Form Application:) Tj /F2 10.5 Tf ( the user-facing part, covering job applications, applicant details,) Tj T* 0 Tw (job / position details, interview scheduling and application status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 432.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 432.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm -0.062291 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Business Logic & Workflow:) Tj /F2 10.5 Tf ( application processing, HR approval workflow, notifications, interviewer) Tj T* 0 Tw (assignment and status updates, which move an application through the process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 403.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 403.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 1.699841 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Data Management:) Tj /F2 10.5 Tf ( the applicant database, job records, application history and job applications, in) Tj T* 0 Tw (which the information is stored.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 374.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 374.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm .889473 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (External Enterprise Systems:) Tj /F2 10.5 Tf ( the HRMS / payroll system, the CRM \(Bigin\), job portals and email /) Tj T* 0 Tw (notification services with which the application must exchange information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 345.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 345.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 2.013781 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Analytics & Reporting:) Tj /F2 10.5 Tf ( application trends, applicant reports, recruitment KPIs and a management) Tj T* 0 Tw (dashboard, which present the stored and processed data to decision makers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 341.4898 cm
+Q
+q
+1 0 0 1 67.2 283.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL .085339 Tw (The groups interact in sequence. Users enter and view information through the application; the business logic) Tj T* 0 Tw .221139 Tw (and workflow layer processes this information; the data layer stores and supplies it; external systems provide) Tj T* 0 Tw -0.070061 Tw (or receive related information such as customer relationships, payroll and job postings; and the analytics layer) Tj T* 0 Tw (reports on the results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 255.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (How a Low-Code Platform Can Support the System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 222.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL .182639 Tw (A large part of the system consists of standard application functionality that low-code platforms are designed) Tj T* 0 Tw (to handle:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 217.4898 cm
+Q
+q
+1 0 0 1 61.2 86.48976 cm
+q
+.862745 .901961 .945098 rg
+n 0 131 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Capability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Use in the Job Application System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Forms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Capturing job applications, applicant details and job details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Reports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Viewing job applications, application history and applicant reports.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Moving an application through processing, HR approval, assignment and) Tj T* (status updates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Business process automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Applying rules and automatic actions, such as updating a status when a step) Tj T* (is completed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 131 m 472.8756 131 l S
+n 0 0 m 0 131 l S
+n 472.8756 0 m 472.8756 131 l S
+n 0 0 m 472.8756 0 l S
+n 0 110 m 472.8756 110 l S
+n 0 89 m 472.8756 89 l S
+n 0 68 m 472.8756 68 l S
+n 0 34 m 472.8756 34 l S
+n 136.8 0 m 136.8 131 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 6438
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 3) Tj T* ET
+q
+1 0 0 1 61.2 628.4898 cm
+q
+.862745 .901961 .945098 rg
+n 0 157 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Capability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Use in the Job Application System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 119 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Data management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Storing applicant, job and application records and performing standard) Tj T* (create, read, update and delete operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (User interfaces) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Providing web and mobile screens for applicants, recruiters, managers and) Tj T* (administrators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Informing applicants about application status through email or similar) Tj T* (messages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Basic integrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Connecting to common services such as a CRM through built-in connectors) Tj T* (or standard interfaces.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 157 m 472.8756 157 l S
+n 0 136 m 0 157 l S
+n 0 0 m 0 136 l S
+n 472.8756 136 m 472.8756 157 l S
+n 472.8756 0 m 472.8756 136 l S
+n 0 0 m 472.8756 0 l S
+n 0 136 m 472.8756 136 l S
+n 136.8 136 m 136.8 157 l S
+n 0 102 m 472.8756 102 l S
+n 0 68 m 472.8756 68 l S
+n 0 34 m 472.8756 34 l S
+n 136.8 0 m 136.8 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 67.2 600.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Limitations at Enterprise Scale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 567.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL .047185 Tw (As the system grows into a complex enterprise application, the following limitations may become significant.) Tj T* 0 Tw (They are discussed individually below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 547.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Performance and Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 486.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL .652339 Tw (When the number of job applications, applicant records and users becomes very large, performance may be) Tj T* 0 Tw .446193 Tw (affected. Complex queries and reports over large amounts of data can respond slowly, and the platform may) Tj T* 0 Tw .572849 Tw (impose limits on how far an application can be scaled. Because the underlying infrastructure is managed by) Tj T* 0 Tw (the platform, the options for tuning performance are limited.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 466.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Complex Business Logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 419.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL 2.876924 Tw (Highly specialised business rules, such as intricate multi-level approval chains, candidate scoring and) Tj T* 0 Tw 2.900353 Tw (shortlisting across many positions, and advanced processing, may be difficult to express using visual) Tj T* 0 Tw (workflows and standard scripting. Such requirements may need custom development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 399.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (System Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 353.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL .503185 Tw (Connecting the application to HRMS and ERP systems, CRM systems, job portals, legacy systems, external) Tj T* 0 Tw -0.118838 Tw (APIs and other enterprise services can be challenging. Built-in connectors may not cover every system or data) Tj T* 0 Tw (format, and complex or real-time integrations may need custom interfaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 333.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 286.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL .472424 Tw (Standard low-code components provide common screens and layouts. Highly specialised interfaces and user) Tj T* 0 Tw .184039 Tw (experiences, or functionality that is not offered by the platform, may exceed what these standard components) Tj T* 0 Tw (can provide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 266.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Security and Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 205.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL .621174 Tw (Enterprises require detailed access control, governance, compliance and strong security practices. Role- and) Tj T* 0 Tw 3.150738 Tw (permission-based controls offered by a platform may need to be supplemented to meet fine-grained,) Tj T* 0 Tw 2.539174 Tw (regulatory or organisation-specific requirements, such as the protection of applicant personal data, and) Tj T* 0 Tw (governance of many applications must be managed carefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 185.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (AI and Advanced Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 139.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL 3.140372 Tw (Specialised artificial intelligence and machine-learning models, such as screening resumes or ranking) Tj T* 0 Tw .970435 Tw (candidates, and other advanced processing may require external services or custom code, since a low-code) Tj T* 0 Tw (platform may not provide such capabilities directly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 119.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Vendor / Platform Dependency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 72.98976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL 1.152507 Tw (The application depends on the capabilities, restrictions, pricing and supported integrations of the selected) Tj T* 0 Tw .228476 Tw (platform. Features may be limited by the plan or edition, and moving an application to another platform later) Tj T* 0 Tw (can be difficult.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 14681
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 4) Tj T* ET
+q
+1 0 0 1 67.2 771.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 11 Tf 14 TL (Data Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 724.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33 Tm /F2 10.5 Tf 14.5 TL 1.156545 Tw (Large datasets, complex relationships between records and advanced data processing, such as heavy batch) Tj T* 0 Tw 1.911639 Tw (processing or complex data transformations, may be difficult to handle within the data model and tools) Tj T* 0 Tw (provided by the platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 718.9898 cm
+Q
+q
+1 0 0 1 67.2 617.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 91 Tm /F2 10.5 Tf 14.5 TL 3.036853 Tw (Figure 2 summarises how the limitations arise. A basic low-code application, characterised by quick) Tj T* 0 Tw 1.223174 Tw (development, minimal configuration and suitability for small and medium needs, faces growing enterprise) Tj T* 0 Tw .119469 Tw (requirements: more users and data, complex business processes, integration with multiple systems and higher) Tj T* 0 Tw 2.297674 Tw (security and compliance needs. These lead to enterprise-scale challenges such as increased complexity,) Tj T* 0 Tw 3.673963 Tw (higher performance demands, greater integration needs, stronger security and governance, and more) Tj T* 0 Tw .296935 Tw (customisation and flexibility. The diagram then identifies eight key limitations, which are the ones discussed) Tj T* 0 Tw (above.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 611.4898 cm
+Q
+q
+1 0 0 1 67.2 276.4898 cm
+.901961 .929412 .968627 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+4 311 m
+468.8756 311 l
+471.0868 311 472.8756 312.7888 472.8756 315 c
+472.8756 331 l
+472.8756 333.2112 471.0868 335 468.8756 335 c
+4 335 l
+1.7888 335 0 333.2112 0 331 c
+0 315 l
+0 312.7888 1.7888 311 4 311 c
+h
+B*
+BT /F4 11 Tf 13.2 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 94.3233 319 Tm (Limitations of Low-Code Platforms at Enterprise Scale) Tj T* ET
+.890196 .952941 .909804 rg
+.603922 .815686 .67451 RG
+.8 w
+n
+5 221 m
+137.9585 221 l
+140.7225 221 142.9585 223.236 142.9585 226 c
+142.9585 298 l
+142.9585 300.764 140.7225 303 137.9585 303 c
+5 303 l
+2.236 303 0 300.764 0 298 c
+0 226 l
+0 223.236 2.236 221 5 221 c
+h
+B*
+BT /F4 8 Tf 9.6 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 17.47127 290 Tm (Basic Low-Code Application) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 276.4 Tm (\177 Quick development) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 268 Tm (\177 Minimal configuration) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 259.6 Tm (\177 Works well for small / medium needs) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 144.9585 262 m 159.9585 262 l S
+n 162.9585 262 m 158.9585 264.5 l 158.9585 259.5 l h
+f*
+.862745 .913725 .972549 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+169.9585 221 m
+302.9171 221 l
+305.6811 221 307.9171 223.236 307.9171 226 c
+307.9171 298 l
+307.9171 300.764 305.6811 303 302.9171 303 c
+169.9585 303 l
+167.1945 303 164.9585 300.764 164.9585 298 c
+164.9585 226 l
+164.9585 223.236 167.1945 221 169.9585 221 c
+h
+B*
+BT /F4 8 Tf 9.6 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 171.5338 290 Tm (Growing Enterprise Requirements) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 172.9585 276.4 Tm (\177 More users and data) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 172.9585 268 Tm (\177 Complex business processes) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 172.9585 259.6 Tm (\177 Integration with multiple systems) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 172.9585 251.2 Tm (\177 Higher security and compliance needs) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 309.9171 262 m 324.9171 262 l S
+n 327.9171 262 m 323.9171 264.5 l 323.9171 259.5 l h
+f*
+.984314 .913725 .905882 rg
+.878431 .584314 .545098 RG
+.8 w
+n
+334.9171 221 m
+467.8756 221 l
+470.6396 221 472.8756 223.236 472.8756 226 c
+472.8756 298 l
+472.8756 300.764 470.6396 303 467.8756 303 c
+334.9171 303 l
+332.1531 303 329.9171 300.764 329.9171 298 c
+329.9171 226 l
+329.9171 223.236 332.1531 221 334.9171 221 c
+h
+B*
+BT /F4 8 Tf 9.6 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 347.3763 290 Tm (Enterprise-Scale Challenges) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 337.9171 276.4 Tm (\177 Increased complexity) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 337.9171 268 Tm (\177 Higher performance demands) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 337.9171 259.6 Tm (\177 Greater integration needs) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 337.9171 251.2 Tm (\177 Stronger security and governance) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 337.9171 242.8 Tm (\177 More customization and flexibility) Tj T* ET
+.878431 .333333 .415686 rg
+n
+159.4378 199 m
+313.4378 199 l
+315.0962 199 316.4378 200.3416 316.4378 202 c
+316.4378 210 l
+316.4378 211.6584 315.0962 213 313.4378 213 c
+159.4378 213 l
+157.7794 213 156.4378 211.6584 156.4378 210 c
+156.4378 202 l
+156.4378 200.3416 157.7794 199 159.4378 199 c
+h
+f*
+BT /F4 7.5 Tf 9 TL ET
+1 1 1 rg
+BT 1 0 0 1 173.7078 203 Tm (Key Limitations at Enterprise Scale) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+.9 w
+n 236.4378 221 m 236.4378 216 l S
+n 236.4378 213 m 233.9378 217 l 238.9378 217 l h
+f*
+.890196 .952941 .909804 rg
+.603922 .815686 .67451 RG
+.8 w
+n
+4 127 m
+108.2189 127 l
+110.4301 127 112.2189 128.7888 112.2189 131 c
+112.2189 185 l
+112.2189 187.2112 110.4301 189 108.2189 189 c
+4 189 l
+1.7888 189 0 187.2112 0 185 c
+0 131 l
+0 128.7888 1.7888 127 4 127 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 7.689449 177 Tm (1. Performance & Scalability) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 162.4 Tm (\177 High application volume) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 153.8 Tm (\177 Large number of users) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 145.2 Tm (\177 Complex queries) Tj T* ET
+.890196 .952941 .909804 rg
+.603922 .815686 .67451 RG
+.8 w
+n
+124.2189 127 m
+228.4378 127 l
+230.649 127 232.4378 128.7888 232.4378 131 c
+232.4378 185 l
+232.4378 187.2112 230.649 189 228.4378 189 c
+124.2189 189 l
+122.0077 189 120.2189 187.2112 120.2189 185 c
+120.2189 131 l
+120.2189 128.7888 122.0077 127 124.2189 127 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 129.5139 177 Tm (2. Complex Business Logic) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 162.4 Tm (\177 Advanced approval chains) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 153.8 Tm (\177 Custom screening and scoring) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 145.2 Tm (\177 Complex automation) Tj T* ET
+.913725 .894118 .964706 rg
+.760784 .713725 .886275 RG
+.8 w
+n
+244.4378 127 m
+348.6567 127 l
+350.8679 127 352.6567 128.7888 352.6567 131 c
+352.6567 185 l
+352.6567 187.2112 350.8679 189 348.6567 189 c
+244.4378 189 l
+242.2266 189 240.4378 187.2112 240.4378 185 c
+240.4378 131 l
+240.4378 128.7888 242.2266 127 244.4378 127 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 260.1368 177 Tm (3. System Integration) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 162.4 Tm (\177 HRMS / ERP systems) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 153.8 Tm (\177 Job portal APIs) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 145.2 Tm (\177 Legacy HR systems) Tj T* ET
+.992157 .941176 .862745 rg
+.921569 .784314 .560784 RG
+.8 w
+n
+364.6567 127 m
+468.8756 127 l
+471.0868 127 472.8756 128.7888 472.8756 131 c
+472.8756 185 l
+472.8756 187.2112 471.0868 189 468.8756 189 c
+364.6567 189 l
+362.4455 189 360.6567 187.2112 360.6567 185 c
+360.6567 131 l
+360.6567 128.7888 362.4455 127 364.6567 127 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 387.9625 177 Tm (4. Customization) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 162.4 Tm (\177 Advanced UI requirements) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 153.8 Tm (\177 Specialized functionality) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 145.2 Tm (\177 Custom user experience) Tj T* ET
+.890196 .952941 .909804 rg
+.603922 .815686 .67451 RG
+.8 w
+n
+4 57 m
+108.2189 57 l
+110.4301 57 112.2189 58.7888 112.2189 61 c
+112.2189 115 l
+112.2189 117.2112 110.4301 119 108.2189 119 c
+4 119 l
+1.7888 119 0 117.2112 0 115 c
+0 61 l
+0 58.7888 1.7888 57 4 57 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 12.49185 107 Tm (5. Security & Governance) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 92.4 Tm (\177 Fine-grained access control) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 83.8 Tm (\177 Applicant data privacy) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 8 75.2 Tm (\177 Enterprise governance) Tj T* ET
+.913725 .894118 .964706 rg
+.760784 .713725 .886275 RG
+.8 w
+n
+124.2189 57 m
+228.4378 57 l
+230.649 57 232.4378 58.7888 232.4378 61 c
+232.4378 115 l
+232.4378 117.2112 230.649 119 228.4378 119 c
+124.2189 119 l
+122.0077 119 120.2189 117.2112 120.2189 115 c
+120.2189 61 l
+120.2189 58.7888 122.0077 57 124.2189 57 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 127.3143 107 Tm (6. AI / Advanced Technology) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 92.4 Tm (\177 Resume screening models) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 83.8 Tm (\177 ML ranking pipelines) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 128.2189 75.2 Tm (\177 Specialized analytics) Tj T* ET
+.984314 .913725 .905882 rg
+.878431 .584314 .545098 RG
+.8 w
+n
+244.4378 57 m
+348.6567 57 l
+350.8679 57 352.6567 58.7888 352.6567 61 c
+352.6567 115 l
+352.6567 117.2112 350.8679 119 348.6567 119 c
+244.4378 119 l
+242.2266 119 240.4378 117.2112 240.4378 115 c
+240.4378 61 l
+240.4378 58.7888 242.2266 57 244.4378 57 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 257.7356 107 Tm (7. Vendor Dependency) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 92.4 Tm (\177 Platform limitations) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 83.8 Tm (\177 Plan restrictions) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 248.4378 75.2 Tm (\177 Migration challenges) Tj T* ET
+.909804 .92549 .952941 rg
+.72549 .764706 .839216 RG
+.8 w
+n
+364.6567 57 m
+468.8756 57 l
+471.0868 57 472.8756 58.7888 472.8756 61 c
+472.8756 115 l
+472.8756 117.2112 471.0868 119 468.8756 119 c
+364.6567 119 l
+362.4455 119 360.6567 117.2112 360.6567 115 c
+360.6567 61 l
+360.6567 58.7888 362.4455 57 364.6567 57 c
+h
+B*
+BT /F4 7.2 Tf 8.64 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 381.9577 107 Tm (8. Data Management) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 92.4 Tm (\177 Large datasets) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 83.8 Tm (\177 Complex relationships) Tj T* ET
+BT /F1 6.6 Tf 7.92 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 368.6567 75.2 Tm (\177 Data processing requirements) Tj T* ET
+.956863 .972549 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+4 0 m
+468.8756 0 l
+471.0868 0 472.8756 1.7888 472.8756 4 c
+472.8756 18 l
+472.8756 20.2112 471.0868 22 468.8756 22 c
+4 22 l
+1.7888 22 0 20.2112 0 18 c
+0 4 l
+0 1.7888 1.7888 0 4 0 c
+h
+B*
+BT /F1 6.8 Tf 8.16 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 12.3268 12.2 Tm (As enterprise complexity increases, the limitations of low-code platforms become more significant, requiring careful evaluation, planning and potential) Tj T* ET
+BT 1 0 0 1 205.4468 4.2 Tm (alternative solutions.) Tj T* ET
+Q
+q
+1 0 0 1 67.2 273.4898 cm
+Q
+q
+1 0 0 1 67.2 258.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F5 10.5 Tf 12 TL 89.5488 0 Td (Figure 2: Limitations of Low-Code Platforms at Enterprise Scale) Tj T* -89.5488 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2 235.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 10.5 Tf 14.5 TL (The relevance of each limitation to the Enterprise Job Application Management System is given below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 230.9898 cm
+Q
+q
+1 0 0 1 61.2 73.98976 cm
+q
+.862745 .901961 .945098 rg
+n 0 157 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Relevance to the Case Study) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 119 cm
+q
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (Performance & Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Growing numbers of applicants, job applications and users, and reports over) Tj T* (application history.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Complex Business Logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Approval workflows, interviewer assignment and screening rules that) Tj T* (become more complex over time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (System Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (CRM \(Bigin\), HRMS / payroll system, job portals and email / notification) Tj T* (services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Specialised interfaces for recruiters, interviewers and managers, and a) Tj T* (tailored applicant experience.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 157 m 472.8756 157 l S
+n 0 0 m 0 157 l S
+n 472.8756 0 m 472.8756 157 l S
+n 0 0 m 472.8756 0 l S
+n 0 136 m 472.8756 136 l S
+n 0 102 m 472.8756 102 l S
+n 0 68 m 472.8756 68 l S
+n 0 34 m 472.8756 34 l S
+n 136.8 0 m 136.8 157 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 7599
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 5) Tj T* ET
+q
+1 0 0 1 61.2 628.4898 cm
+q
+.862745 .901961 .945098 rg
+n 0 157 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Relevance to the Case Study) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 119 cm
+q
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (Security & Governance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Different access needs for applicants, recruiters, managers and) Tj T* (administrators; protection of applicant personal data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (AI / Advanced Technology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Possible intelligent features, such as resume screening, built on application) Tj T* (history and recruitment data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Vendor Dependency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL -0.077341 Tw (Reliance on the platform for all application, workflow and reporting features,) Tj T* 0 Tw (and on its plan limits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Data Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL -0.120934 Tw (Large volumes of applicant records and application history with relationships) Tj T* 0 Tw (to jobs and approvals.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 157 m 472.8756 157 l S
+n 0 136 m 0 157 l S
+n 0 0 m 0 136 l S
+n 472.8756 136 m 472.8756 157 l S
+n 472.8756 0 m 472.8756 136 l S
+n 0 0 m 472.8756 0 l S
+n 0 136 m 472.8756 136 l S
+n 136.8 136 m 136.8 157 l S
+n 0 102 m 472.8756 102 l S
+n 0 68 m 472.8756 68 l S
+n 0 34 m 472.8756 34 l S
+n 136.8 0 m 136.8 136 l S
+Q
+Q
+Q
+q
+1 0 0 1 67.2 600.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Low-Code vs Pro-Code Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 567.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL .196435 Tw (The suitability of low-code or pro-code development depends on the requirements of the application. Neither) Tj T* 0 Tw (approach is universally better; the comparison below indicates the typical role of each.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 562.4898 cm
+Q
+q
+1 0 0 1 61.2 183.4898 cm
+q
+.862745 .901961 .945098 rg
+n 0 379 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Low-Code Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (When Pro-Code May Be Required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 341 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (User interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 328 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Standard screens, forms and layouts built) Tj T* (from predefined components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Highly specialised interfaces or custom) Tj T* (user experiences beyond standard) Tj T* (components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 294 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Business logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 281 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Visual workflows, rules and simple) Tj T* (scripting for common business processes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 281 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Complex rules and advanced processing) Tj T* (that cannot be expressed in visual tools.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 247 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Data) Tj T* (management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 234 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Built-in data model with forms,) Tj T* (relationships and standard create, read,) Tj T* (update and delete operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 247 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Very large datasets, complex relationships) Tj T* (and advanced data processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Integrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 200 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Built-in connectors and standard interfaces) Tj T* (for common services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 187 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Legacy systems, specialised or real-time) Tj T* (integrations and systems without) Tj T* (connectors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Rules, scheduled actions and) Tj T* (workflow-based automation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Complex or high-volume automation and) Tj T* (specialised processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (AI/ML) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 119 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Basic features offered by the platform,) Tj T* (where available.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 119 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Custom AI models, machine-learning) Tj T* (pipelines and specialised analytics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Role- and permission-based access control) Tj T* (provided by the platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Fine-grained access control, specific) Tj T* (compliance requirements and enterprise) Tj T* (security needs beyond platform features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Suitable where the platform handles the) Tj T* (expected users and data volumes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (High data volumes, large user numbers) Tj T* (and demanding performance requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Custom) Tj T* (functionality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 92.4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Functionality available as platform) Tj T* (features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 285.6378 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Functionality that the platform does not) Tj T* (provide.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 379 m 472.8756 379 l S
+n 0 0 m 472.8756 0 l S
+n 0 0 m 0 379 l S
+n 472.8756 0 m 472.8756 379 l S
+n 0 358 m 472.8756 358 l S
+n 0 311 m 472.8756 311 l S
+n 0 277 m 472.8756 277 l S
+n 0 230 m 472.8756 230 l S
+n 0 183 m 472.8756 183 l S
+n 0 149 m 472.8756 149 l S
+n 0 115 m 472.8756 115 l S
+n 0 68 m 472.8756 68 l S
+n 0 34 m 472.8756 34 l S
+n 86.4 0 m 86.4 379 l S
+n 279.6378 0 m 279.6378 379 l S
+Q
+Q
+Q
+q
+1 0 0 1 67.2 179.4898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 16386
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 6) Tj T* ET
+q
+1 0 0 1 67.2 767.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Hybrid Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 705.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL 1.152299 Tw (Organisations can combine low-code development with pro-code extensions. Low-code is used to develop) Tj T* 0 Tw 1.174963 Tw (standard application functionality quickly, while custom code, APIs, integrations or specialised processing) Tj T* 0 Tw .427818 Tw (are used for requirements that exceed the built-in capabilities of the platform. The structure consists of three) Tj T* 0 Tw (layers:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 688.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F3 10.5 Tf 14 TL 73.5153 0 Td (Low-Code Application ) Tj /F6 10.5 Tf 14 TL (\256) Tj /F3 10.5 Tf 14 TL ( Pro-Code Extensions ) Tj /F6 10.5 Tf 14 TL (\256) Tj /F3 10.5 Tf 14 TL ( Enterprise Systems) Tj T* -73.5153 0 Td ET
+Q
+Q
+q
+1 0 0 1 67.2 653.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.5 Tm /F2 10.5 Tf 14.5 TL 2.007045 Tw (Figure 3 shows this architecture. Users such as applicants, recruiters, hiring managers, interviewers and) Tj T* 0 Tw (administrators access the system at the top, and the three layers are described below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 647.4898 cm
+Q
+q
+1 0 0 1 67.2 342.4898 cm
+BT /F4 12 Tf 14.4 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 116.0958 293 Tm (Hybrid Low-Code and Pro-Code Approach) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 71.4758 282 Tm (Leverage the speed of low-code with the flexibility of pro-code to build scalable, enterprise-ready solutions.) Tj T* ET
+.956863 .972549 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+4 247 m
+468.8756 247 l
+471.0868 247 472.8756 248.7888 472.8756 251 c
+472.8756 271 l
+472.8756 273.2112 471.0868 275 468.8756 275 c
+4 275 l
+1.7888 275 0 273.2112 0 271 c
+0 251 l
+0 248.7888 1.7888 247 4 247 c
+h
+B*
+BT /F4 8 Tf 9.6 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 10 257 Tm (Users) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 84.14206 257 Tm (Applicants) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 156.9437 257 Tm (Recruiters / HR) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 235.7653 257 Tm (Hiring Managers) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 323.1479 257 Tm (Interviewers) Tj T* ET
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 400.223 257 Tm (Administrators) Tj T* ET
+.972549 .980392 .992157 rg
+.247059 .560784 .823529 RG
+.8 w
+n
+4 185 m
+468.8756 185 l
+471.0868 185 472.8756 186.7888 472.8756 189 c
+472.8756 233 l
+472.8756 235.2112 471.0868 237 468.8756 237 c
+4 237 l
+1.7888 237 0 235.2112 0 233 c
+0 189 l
+0 186.7888 1.7888 185 4 185 c
+h
+B*
+.247059 .560784 .823529 rg
+n
+4 185 m
+70 185 l
+72.2112 185 74 186.7888 74 189 c
+74 233 l
+74 235.2112 72.2112 237 70 237 c
+4 237 l
+1.7888 237 0 235.2112 0 233 c
+0 189 l
+0 186.7888 1.7888 185 4 185 c
+h
+f*
+BT /F1 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 225 Tm (LAYER 1) Tj T* ET
+BT /F4 7.4 Tf 8.88 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 213.6 Tm (LOW-CODE) Tj T* ET
+BT 1 0 0 1 6 204.8 Tm (APPLICATION) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+83 190 m
+151.5751 190 l
+153.2335 190 154.5751 191.3416 154.5751 193 c
+154.5751 229 l
+154.5751 230.6584 153.2335 232 151.5751 232 c
+83 232 l
+81.3416 232 80 230.6584 80 229 c
+80 193 l
+80 191.3416 81.3416 190 83 190 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 86.45186 218.8 Tm (User Interface \(Web /) Tj T* ET
+BT 1 0 0 1 106.4376 211.4 Tm (Mobile\)) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+161.5751 190 m
+230.1502 190 l
+231.8086 190 233.1502 191.3416 233.1502 193 c
+233.1502 229 l
+233.1502 230.6584 231.8086 232 230.1502 232 c
+161.5751 232 l
+159.9167 232 158.5751 230.6584 158.5751 229 c
+158.5751 193 l
+158.5751 191.3416 159.9167 190 161.5751 190 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 162.1037 218.8 Tm (Forms & Reports \(Data) Tj T* ET
+BT 1 0 0 1 172.9506 211.4 Tm (capture & view\)) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+240.1502 190 m
+308.7254 190 l
+310.3838 190 311.7254 191.3416 311.7254 193 c
+311.7254 229 l
+311.7254 230.6584 310.3838 232 308.7254 232 c
+240.1502 232 l
+238.4918 232 237.1502 230.6584 237.1502 229 c
+237.1502 193 l
+237.1502 191.3416 238.4918 190 240.1502 190 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 244.808 218.8 Tm (Workflows \(Process) Tj T* ET
+BT 1 0 0 1 267.2055 211.4 Tm (flow\)) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+318.7254 190 m
+387.3005 190 l
+388.9589 190 390.3005 191.3416 390.3005 193 c
+390.3005 229 l
+390.3005 230.6584 388.9589 232 387.3005 232 c
+318.7254 232 l
+317.067 232 315.7254 230.6584 315.7254 229 c
+315.7254 193 l
+315.7254 191.3416 317.067 190 318.7254 190 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 326.3064 218.8 Tm (Business Process) Tj T* ET
+BT 1 0 0 1 335.7924 211.4 Tm (Automation) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+397.3005 190 m
+465.8756 190 l
+467.534 190 468.8756 191.3416 468.8756 193 c
+468.8756 229 l
+468.8756 230.6584 467.534 232 465.8756 232 c
+397.3005 232 l
+395.6421 232 394.3005 230.6584 394.3005 229 c
+394.3005 193 l
+394.3005 191.3416 395.6421 190 397.3005 190 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 410.5731 218.8 Tm (Standard Data) Tj T* ET
+BT 1 0 0 1 400.7616 211.4 Tm (Management \(CRUD\)) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+n 236.4378 185 m 236.4378 174 l S
+n 236.4378 174 m 233.4378 178 l S
+n 236.4378 174 m 239.4378 178 l S
+n 236.4378 185 m 233.4378 181 l S
+n 236.4378 185 m 239.4378 181 l S
+.972549 .980392 .992157 rg
+.482353 .407843 .709804 RG
+.8 w
+n
+4 119 m
+468.8756 119 l
+471.0868 119 472.8756 120.7888 472.8756 123 c
+472.8756 167 l
+472.8756 169.2112 471.0868 171 468.8756 171 c
+4 171 l
+1.7888 171 0 169.2112 0 167 c
+0 123 l
+0 120.7888 1.7888 119 4 119 c
+h
+B*
+.482353 .407843 .709804 rg
+n
+4 119 m
+70 119 l
+72.2112 119 74 120.7888 74 123 c
+74 167 l
+74 169.2112 72.2112 171 70 171 c
+4 171 l
+1.7888 171 0 169.2112 0 167 c
+0 123 l
+0 120.7888 1.7888 119 4 119 c
+h
+f*
+BT /F1 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 159 Tm (LAYER 2) Tj T* ET
+BT /F4 7.4 Tf 8.88 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 147.6 Tm (PRO-CODE) Tj T* ET
+BT 1 0 0 1 6 138.8 Tm (EXTENSIONS) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+83 124 m
+138.4793 124 l
+140.1377 124 141.4793 125.3416 141.4793 127 c
+141.4793 163 l
+141.4793 164.6584 140.1377 166 138.4793 166 c
+83 166 l
+81.3416 166 80 164.6584 80 163 c
+80 127 l
+80 125.3416 81.3416 124 83 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 83.52783 152.8 Tm (Custom Functions) Tj T* ET
+BT 1 0 0 1 86.79523 145.4 Tm (\(Reusable code\)) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+148.4793 124 m
+203.9585 124 l
+205.6169 124 206.9585 125.3416 206.9585 127 c
+206.9585 163 l
+206.9585 164.6584 205.6169 166 203.9585 166 c
+148.4793 166 l
+146.8209 166 145.4793 164.6584 145.4793 163 c
+145.4793 127 l
+145.4793 125.3416 146.8209 124 148.4793 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 161.404 152.8 Tm (Advanced) Tj T* ET
+BT 1 0 0 1 153.3068 145.4 Tm (Business Logic) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+213.9585 124 m
+269.4378 124 l
+271.0962 124 272.4378 125.3416 272.4378 127 c
+272.4378 163 l
+272.4378 164.6584 271.0962 166 269.4378 166 c
+213.9585 166 l
+212.3001 166 210.9585 164.6584 210.9585 163 c
+210.9585 127 l
+210.9585 125.3416 212.3001 124 213.9585 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 222.4069 152.8 Tm (Custom APIs) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+279.4378 124 m
+334.9171 124 l
+336.5755 124 337.9171 125.3416 337.9171 127 c
+337.9171 163 l
+337.9171 164.6584 336.5755 166 334.9171 166 c
+279.4378 166 l
+277.7794 166 276.4378 164.6584 276.4378 163 c
+276.4378 127 l
+276.4378 125.3416 277.7794 124 279.4378 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 294.9448 152.8 Tm (External) Tj T* ET
+BT 1 0 0 1 289.4361 145.4 Tm (Integrations) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+344.9171 124 m
+400.3963 124 l
+402.0547 124 403.3963 125.3416 403.3963 127 c
+403.3963 163 l
+403.3963 164.6584 402.0547 166 400.3963 166 c
+344.9171 166 l
+343.2587 166 341.9171 164.6584 341.9171 163 c
+341.9171 127 l
+341.9171 125.3416 343.2587 124 344.9171 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 348.8797 152.8 Tm (AI / ML Services) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+410.3963 124 m
+465.8756 124 l
+467.534 124 468.8756 125.3416 468.8756 127 c
+468.8756 163 l
+468.8756 164.6584 467.534 166 465.8756 166 c
+410.3963 166 l
+408.7379 166 407.3963 164.6584 407.3963 163 c
+407.3963 127 l
+407.3963 125.3416 408.7379 124 410.3963 124 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 421.2503 152.8 Tm (Specialized) Tj T* ET
+BT 1 0 0 1 421.4239 145.4 Tm (Processing) Tj T* ET
+.333333 .333333 .333333 RG
+.333333 .333333 .333333 rg
+n 236.4378 119 m 236.4378 108 l S
+n 236.4378 108 m 233.4378 112 l S
+n 236.4378 108 m 239.4378 112 l S
+n 236.4378 119 m 233.4378 115 l S
+n 236.4378 119 m 239.4378 115 l S
+.972549 .980392 .992157 rg
+.298039 .623529 .419608 RG
+.8 w
+n
+4 53 m
+468.8756 53 l
+471.0868 53 472.8756 54.7888 472.8756 57 c
+472.8756 101 l
+472.8756 103.2112 471.0868 105 468.8756 105 c
+4 105 l
+1.7888 105 0 103.2112 0 101 c
+0 57 l
+0 54.7888 1.7888 53 4 53 c
+h
+B*
+.298039 .623529 .419608 rg
+n
+4 53 m
+70 53 l
+72.2112 53 74 54.7888 74 57 c
+74 101 l
+74 103.2112 72.2112 105 70 105 c
+4 105 l
+1.7888 105 0 103.2112 0 101 c
+0 57 l
+0 54.7888 1.7888 53 4 53 c
+h
+f*
+BT /F1 6.5 Tf 7.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 93 Tm (LAYER 3) Tj T* ET
+BT /F4 7.4 Tf 8.88 TL ET
+1 1 1 rg
+BT 1 0 0 1 6 81.6 Tm (ENTERPRISE) Tj T* ET
+BT 1 0 0 1 6 72.8 Tm (SYSTEMS) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+83 58 m
+138.4793 58 l
+140.1377 58 141.4793 59.3416 141.4793 61 c
+141.4793 97 l
+141.4793 98.6584 140.1377 100 138.4793 100 c
+83 100 l
+81.3416 100 80 98.6584 80 97 c
+80 61 l
+80 59.3416 81.3416 58 83 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 93.00453 86.8 Tm (CRM \(Bigin\)) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+148.4793 58 m
+203.9585 58 l
+205.6169 58 206.9585 59.3416 206.9585 61 c
+206.9585 97 l
+206.9585 98.6584 205.6169 100 203.9585 100 c
+148.4793 100 l
+146.8209 100 145.4793 98.6584 145.4793 97 c
+145.4793 61 l
+145.4793 59.3416 146.8209 58 148.4793 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 167.0925 86.8 Tm (HRMS) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+213.9585 58 m
+269.4378 58 l
+271.0962 58 272.4378 59.3416 272.4378 61 c
+272.4378 97 l
+272.4378 98.6584 271.0962 100 269.4378 100 c
+213.9585 100 l
+212.3001 100 210.9585 98.6584 210.9585 97 c
+210.9585 61 l
+210.9585 59.3416 212.3001 58 213.9585 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 224.8156 86.8 Tm (Job Portals) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+279.4378 58 m
+334.9171 58 l
+336.5755 58 337.9171 59.3416 337.9171 61 c
+337.9171 97 l
+337.9171 98.6584 336.5755 100 334.9171 100 c
+279.4378 100 l
+277.7794 100 276.4378 98.6584 276.4378 97 c
+276.4378 61 l
+276.4378 59.3416 277.7794 58 279.4378 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 285.2914 86.8 Tm (Email Services) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+344.9171 58 m
+400.3963 58 l
+402.0547 58 403.3963 59.3416 403.3963 61 c
+403.3963 97 l
+403.3963 98.6584 402.0547 100 400.3963 100 c
+344.9171 100 l
+343.2587 100 341.9171 98.6584 341.9171 97 c
+341.9171 61 l
+341.9171 59.3416 343.2587 58 344.9171 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 360.4241 86.8 Tm (External) Tj T* ET
+BT 1 0 0 1 357.1505 79.4 Tm (Databases) Tj T* ET
+1 1 1 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+410.3963 58 m
+465.8756 58 l
+467.534 58 468.8756 59.3416 468.8756 61 c
+468.8756 97 l
+468.8756 98.6584 467.534 100 465.8756 100 c
+410.3963 100 l
+408.7379 100 407.3963 98.6584 407.3963 97 c
+407.3963 61 l
+407.3963 59.3416 408.7379 58 410.3963 58 c
+h
+B*
+BT /F4 6.2 Tf 7.44 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 424.3534 86.8 Tm (Analytics) Tj T* ET
+BT 1 0 0 1 423.8388 79.4 Tm (Platforms) Tj T* ET
+.956863 .972549 .992157 rg
+.721569 .780392 .878431 RG
+.8 w
+n
+4 -7 m
+468.8756 -7 l
+471.0868 -7 472.8756 -5.2112 472.8756 -3 c
+472.8756 25 l
+472.8756 27.2112 471.0868 29 468.8756 29 c
+4 29 l
+1.7888 29 0 27.2112 0 25 c
+0 -3 l
+0 -5.2112 1.7888 -7 4 -7 c
+h
+B*
+BT /F4 8 Tf 9.6 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 10 15 Tm (Why Hybrid?) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 89.72756 16.6 Tm /F7 6.4 Tf 7.68 TL (3) Tj /F1 6.4 Tf 7.68 TL ( Faster application) Tj T* ET
+BT 1 0 0 1 99.96756 9 Tm (development) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 180.5331 16.6 Tm /F7 6.4 Tf 7.68 TL (3) Tj /F1 6.4 Tf 7.68 TL ( Flexible) Tj T* ET
+BT 1 0 0 1 175.3011 9 Tm (customization) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 246.433 16.6 Tm /F7 6.4 Tf 7.68 TL (3) Tj /F1 6.4 Tf 7.68 TL ( Integration with) Tj T* ET
+BT 1 0 0 1 247.9658 9 Tm (existing systems) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 316.0737 16.6 Tm /F7 6.4 Tf 7.68 TL (3) Tj /F1 6.4 Tf 7.68 TL ( Support for complex) Tj T* ET
+BT 1 0 0 1 327.9169 9 Tm (business logic) Tj T* ET
+BT /F1 6.4 Tf 7.68 TL ET
+.105882 .164706 .254902 rg
+BT 1 0 0 1 398.6936 16.6 Tm /F7 6.4 Tf 7.68 TL (3) Tj /F1 6.4 Tf 7.68 TL ( Ability to extend) Tj T* ET
+BT 1 0 0 1 401.644 9 Tm (beyond platform) Tj T* ET
+BT 1 0 0 1 410.364 1.4 Tm (limitations) Tj T* ET
+Q
+q
+1 0 0 1 67.2 339.4898 cm
+Q
+q
+1 0 0 1 67.2 324.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F5 10.5 Tf 12 TL 85.91055 0 Td (Figure 3: Hybrid Low-Code and Pro-Code Enterprise Architecture) Tj T* -85.91055 0 Td ET
+Q
+Q
+q
+1 0 0 1 61.2 167.4898 cm
+q
+.862745 .901961 .945098 rg
+n 0 149 472.8756 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 10.5 Tf 13 TL (Role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Layer 1 \226 Low-Code) Tj T* (Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Provides rapid development for standard application needs: user interface) Tj T* (\(web / mobile\), forms and reports, workflows, business process automation) Tj T* (and standard data management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Layer 2 \226 Pro-Code) Tj T* (Extensions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.5 Tm /F2 10.5 Tf 13 TL (Adds custom logic and specialised capabilities: custom functions, advanced) Tj T* (business logic, custom APIs, external integrations, AI / machine-learning) Tj T* (services and specialised processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 17 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Layer 3 \226 Enterprise Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F2 10.5 Tf 13 TL (Core systems that provide data, services and infrastructure: CRM, HRMS,) Tj T* (job portals, email services, external databases and analytics platforms.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 149 m 472.8756 149 l S
+n 0 0 m 472.8756 0 l S
+n 0 0 m 0 149 l S
+n 472.8756 0 m 472.8756 149 l S
+n 0 128 m 472.8756 128 l S
+n 0 81 m 472.8756 81 l S
+n 0 34 m 472.8756 34 l S
+n 136.8 0 m 136.8 149 l S
+Q
+Q
+Q
+q
+1 0 0 1 67.2 159.4898 cm
+Q
+q
+1 0 0 1 67.2 101.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL 4.092507 Tw (The diagram also lists the reasons for a hybrid approach: faster application development, flexible) Tj T* 0 Tw .170185 Tw (customisation, integration with existing systems, support for complex business logic and the ability to extend) Tj T* 0 Tw .110935 Tw (beyond platform limitations. The arrows between the layers indicate that information flows in both directions) Tj T* 0 Tw (between the application, its extensions and the enterprise systems.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.16
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 6765
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 284.1678 36 Tm (Page 7) Tj T* ET
+q
+1 0 0 1 67.2 767.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (When Pro-Code Extension May Become Necessary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 734.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 734.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 1.820591 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Complex business logic:) Tj /F2 10.5 Tf ( when business rules and processing cannot be represented using standard) Tj T* 0 Tw (workflows and rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 705.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 705.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 1.409969 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Specialized integrations:) Tj /F2 10.5 Tf ( when the application must connect to legacy, HRMS or other systems for) Tj T* 0 Tw (which suitable connectors are not available.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 676.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 676.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm .755799 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Custom APIs:) Tj /F2 10.5 Tf ( when internal services or interfaces have to be exposed or consumed in a way that the) Tj T* 0 Tw (platform does not support directly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 647.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 647.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 2.161841 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Advanced AI/ML:) Tj /F2 10.5 Tf ( when intelligent features, such as resume screening, require custom models or) Tj T* 0 Tw (machine-learning pipelines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 618.4898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 618.4898 cm
+q
+BT 1 0 0 1 0 18.5 Tm 1.484591 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (High-performance processing:) Tj /F2 10.5 Tf ( when large batches of data or real-time processing exceed what the) Tj T* 0 Tw (platform can handle efficiently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 603.9898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 603.9898 cm
+q
+BT 1 0 0 1 0 4 Tm 14.5 TL /F3 10.5 Tf 0 0 0 rg (Specialized user interfaces:) Tj /F2 10.5 Tf ( when the required user experience goes beyond standard components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 574.9898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 574.9898 cm
+q
+BT 1 0 0 1 0 18.5 Tm .212554 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Complex enterprise data processing:) Tj /F2 10.5 Tf ( when large datasets and complex relationships require advanced) Tj T* 0 Tw (data handling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 545.9898 cm
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 89.2 545.9898 cm
+q
+BT 1 0 0 1 0 18.5 Tm .555341 Tw 14.5 TL /F3 10.5 Tf 0 0 0 rg (Requirements beyond platform capabilities:) Tj /F2 10.5 Tf ( when any needed functionality is simply not offered by) Tj T* 0 Tw (the selected platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 517.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case Study Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 455.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.5 Tm /F2 10.5 Tf 14.5 TL 1.737685 Tw (For the Enterprise Job Application Management System, a low-code platform can be used effectively to) Tj T* 0 Tw .571537 Tw (develop the standard parts of the system rapidly: forms for job applications and applicant details, reports on) Tj T* 0 Tw 3.986099 Tw (application history, workflows for application processing and HR approval, notifications, and basic) Tj T* 0 Tw (dashboards. These features correspond to the capabilities that low-code platforms are designed to provide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 451.9898 cm
+Q
+q
+1 0 0 1 67.2 335.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 105.5 Tm /F2 10.5 Tf 14.5 TL 2.791315 Tw (As the organisation grows, the requirements become more demanding. A large number of applicants,) Tj T* 0 Tw .754008 Tw (applications and records raises performance and data-management concerns; integration with CRM, HRMS) Tj T* 0 Tw .145539 Tw (and job portals raises integration concerns; differing access needs and the handling of applicant personal data) Tj T* 0 Tw .012685 Tw (raise security and governance concerns; and advanced features such as intelligent resume screening may need) Tj T* 0 Tw .007639 Tw (external services. In such cases, extensions, integrations or custom development may be needed in addition to) Tj T* 0 Tw .156549 Tw (the low-code application. Low-code is therefore useful for rapidly developing standard business applications,) Tj T* 0 Tw .281935 Tw (whereas increasingly complex enterprise requirements may call for a hybrid approach, and the choice should) Tj T* 0 Tw (be based on the requirements of the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 307.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 231.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F2 10.5 Tf 14.5 TL 1.427239 Tw (The case study demonstrated the major limitations that can arise when low-code platforms are applied to) Tj T* 0 Tw 3.015509 Tw (complex enterprise requirements, namely performance and scalability, complex business logic, system) Tj T* 0 Tw 3.113645 Tw (integration, customisation, security and governance, AI and advanced technology, vendor or platform) Tj T* 0 Tw 1.201776 Tw (dependency, and data management. It also showed how a hybrid low-code/pro-code approach can address) Tj T* 0 Tw (requirements beyond standard low-code capabilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 203.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 112.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 76.5 Tm /F2 10.5 Tf 14.5 TL 2.559299 Tw (Low-code platforms offer speed and simplicity for standard business applications, but their limitations) Tj T* 0 Tw 1.238185 Tw (become more significant as enterprise complexity increases. For an application such as the Enterprise Job) Tj T* 0 Tw 3.799008 Tw (Application Management System, standard functionality can be built quickly using low-code, while) Tj T* 0 Tw 1.202174 Tw (demanding requirements in logic, integration, security, scale and advanced technology may need pro-code) Tj T* 0 Tw 3.902935 Tw (extensions. It is therefore important to understand the limitations of a platform before selecting a) Tj T* 0 Tw (development approach, so that the chosen approach matches the requirements of the enterprise application.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.5 0.5 0.5 rg
+/gRLs0 gs
+BT
+/F2-0 118 Tf
+141.6 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -295.236 -40 Tm
+(241401085) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000123 00000 n 
+0000000224 00000 n 
+0000000273 00000 n 
+0000000622 00000 n 
+0000006066 00000 n 
+0000006173 00000 n 
+0000006280 00000 n 
+0000006389 00000 n 
+0000006501 00000 n 
+0000006610 00000 n 
+0000006723 00000 n 
+0000006838 00000 n 
+0000006916 00000 n 
+0000007000 00000 n 
+0000007351 00000 n 
+0000029799 00000 n 
+0000030150 00000 n 
+0000036641 00000 n 
+0000036992 00000 n 
+0000051727 00000 n 
+0000052078 00000 n 
+0000059730 00000 n 
+0000060081 00000 n 
+0000076521 00000 n 
+0000076872 00000 n 
+trailer
+<<
+/Size 27
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+83690
+%%EOF
